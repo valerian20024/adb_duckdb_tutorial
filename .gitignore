@@ -1,3 +1,6 @@
 *.db
 *.db.wal
 *.sqlite
+*.ddb
+adb
+venv
